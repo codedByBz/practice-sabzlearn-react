@@ -20,7 +20,3 @@ npm start
 ![پنل ادمین](screenshots/panel-home.png)
 ![مدیریت دوره ها](screenshots/panel-courses.png)
 ![مدیریت قسمت ها](screenshots/panel-sessions.png)
-
-```
-
-```
