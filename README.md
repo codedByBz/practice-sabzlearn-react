@@ -10,3 +10,11 @@ git clone https://github.com/mohamad-bt/practice-sabzlearn-react.git
 cd practice-sabzlearn-react
 npm install
 npm start
+
+## screenshots
+
+![صفحه اصلی](screenshots/home.png)
+![مشخصات دوره](screenshots/course-info.png)
+![پنل ادمین](screenshots/panel-home.png)
+![مدیریت دوره ها](screenshots/panel-courses.png)
+![مدیریت قسمت ها](screenshots/panel-sessions.png)
