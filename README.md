@@ -6,10 +6,12 @@
 
 ## Run:
 
+```bash
 git clone https://github.com/mohamad-bt/practice-sabzlearn-react.git
 cd practice-sabzlearn-react
 npm install
 npm start
+
 
 ## screenshots
 
@@ -18,3 +20,4 @@ npm start
 ![پنل ادمین](screenshots/panel-home.png)
 ![مدیریت دوره ها](screenshots/panel-courses.png)
 ![مدیریت قسمت ها](screenshots/panel-sessions.png)
+```
