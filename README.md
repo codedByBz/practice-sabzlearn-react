@@ -22,8 +22,8 @@ npm start
 
 ## screenshots
 
-![صفحه اصلی](screenshots/home.png)
-![مشخصات دوره](screenshots/course-info.png)
-![پنل ادمین](screenshots/panel-home.png)
-![مدیریت دوره ها](screenshots/panel-courses.png)
-![مدیریت قسمت ها](screenshots/panel-sessions.png)
+![صفحه اصلی پروژه تمرینی محمد حسین بهشتی زاده](screenshots/home.png)
+![مشخصات دوره پروژه تمرینی محمد حسین بهشتی زاده](screenshots/course-info.png)
+![پنل ادمین پروژه تمرینی محمد حسین بهشتی زاده](screenshots/panel-home.png)
+![مدیریت دوره‌ها پروژه تمرینی محمد حسین بهشتی زاده](screenshots/panel-courses.png)
+![مدیریت قسمت‌ها پروژه تمرینی محمد حسین بهشتی زاده](screenshots/panel-sessions.png)
