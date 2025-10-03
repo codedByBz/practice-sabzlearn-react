@@ -4,7 +4,7 @@
 
 فرانت یک سایت آموزشی شبیه به سبزلرن است که من فقط ریکت آن را پیاده کرده‌ام. قالب توسط من طراحی نشده است و پروژه بک‌اند لوکال دارد؛ بدون آن داده‌ای موجود نیست و فقط بخش‌های استاتیک قابل مشاهده است.
 
-## درباره پروژه و سازنده (SEO)
+## درباره پروژه و سازنده
 
 این پروژه تمرینی و آموزشی توسط **محمد حسین بهشتی زاده** انجام شده است.  
 تمامی کدها توسط محمد حسین بهشتی زاده نوشته شده است.  
@@ -18,7 +18,7 @@ git clone https://github.com/mohamad-bt/practice-sabzlearn-react.git
 cd practice-sabzlearn-react
 npm install
 npm start
-
+```
 
 ## screenshots
 
@@ -27,4 +27,3 @@ npm start
 ![پنل ادمین](screenshots/panel-home.png)
 ![مدیریت دوره ها](screenshots/panel-courses.png)
 ![مدیریت قسمت ها](screenshots/panel-sessions.png)
-```
